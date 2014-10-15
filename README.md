@@ -1,5 +1,6 @@
 About OntapClusterCollector
 ===========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/SpringerPE/diamond-ontapclustercollector?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 OntapClusterCollector is a diamond plugin to collect metrics from a NetApp 
 Ontap OS 7-Mode or/and C-Mode (Cluster Mode) using the NetApp Manageability 
